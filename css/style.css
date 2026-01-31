@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  height: 15cm;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #111;
+}
+
+.clock {
+  color: white;
+  font-size: 100px;
+  letter-spacing: 0.2cm;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
